@@ -6,7 +6,7 @@
 ### I then extracted and organized the narrative data from the .json files, but I did not do any further analysis with them
 
 # local working directory:
-setwd("C:/Users/mgalla9/Dropbox/data-scientist-exercise02-master/data")
+setwd("C:/Users/mgalla9/Dropbox/data-scientist-exercise02-master/data-scientist-exercise02-master/data")
 
 install.packages('viridis')
 require(viridis)
